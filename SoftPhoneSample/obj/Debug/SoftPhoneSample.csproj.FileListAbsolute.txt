@@ -1,0 +1,15 @@
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\bin\Debug\SoftPhoneSample.exe.config
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\bin\Debug\SoftPhoneSample.exe
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\bin\Debug\SoftPhoneSample.pdb
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.csprojAssemblyReference.cache
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.Properties.Resources.resources
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.csproj.GenerateResource.cache
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.csproj.CoreCompileInputs.cache
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.exe
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.pdb
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\bin\Debug\Interop.ICAPILib.dll
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\bin\Debug\AxInterop.ICAPILib.dll
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\Interop.ICAPILib.dll
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\AxInterop.ICAPILib.dll
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.csproj.ResolveComReference.cache
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\Debug\SoftPhoneSample.SoftPhoneSample.resources

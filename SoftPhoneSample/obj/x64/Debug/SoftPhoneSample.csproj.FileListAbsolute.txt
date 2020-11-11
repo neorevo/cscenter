@@ -1,0 +1,1 @@
+C:\Project\Source\Window\SoftPhoneSample\SoftPhoneSample\obj\x64\Debug\Interop.ICAPILib.dll
